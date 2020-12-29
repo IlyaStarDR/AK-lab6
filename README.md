@@ -1,4 +1,4 @@
-# AK-lab6#
+# AK-lab6
 
 ## Лістинг:
 
@@ -36,7 +36,7 @@ endif
 
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_DESCRIPTION("AK-2 lab_6 advanced task: hello1\n");
-MODULE_AUTHOR("Illia Starodubtcev IV-82\n");
+MODULE_AUTHOR("Illia Starodubtcev, Averkova Anastasiia IV-82\n");
 
 struct timeit_list {
 	struct list_head node;
@@ -124,7 +124,7 @@ module_exit(exit_hello);
 
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_DESCRIPTION("AK-2 lab_6 advanced task: hello2\n");
-MODULE_AUTHOR("Illia Starodubtcev IV-82\n");
+MODULE_AUTHOR("Illia Starodubtcev, Averkova Anastasiia IV-82\n");
 
 static uint n = 1;
 
